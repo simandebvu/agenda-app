@@ -1,30 +1,30 @@
-# Calc-eat
+# Agenda App
 
 <br />
 <p align="center">
-  <a href="https://github.com/simandebvu/calc-eact/">
-    <img src="./public/logo192.png" alt="Logo" width="200" height="150">
+  <a href="https://github.com/simandebvu/agenda-app/">
+    <img src="./public/logo.png" alt="Logo" width="200" height="150">
   </a>
 
-  <h3 align="center">Calc-eact</h3>
+  <h3 align="center">Agenda App</h3>
 
   <p align="center">
     A React Based Project
     <br />
-    <a href="https://github.com/simandebvu/calc-eact/issues/"><strong>Issues »</strong></a>
+    <a href="https://github.com/simandebvu/agenda-app/issues/"><strong>Issues »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/simandebvu/calc-eact/issues/">Report Bug</a>
+    <a href="https://github.com/simandebvu/agenda-app/issues/">Report Bug</a>
     ·
-    <a href="https://github.com/simandebvu/calc-eact/">Request Feature</a>
+    <a href="https://github.com/simandebvu/agenda-app/">Request Feature</a>
   </p>
 </p>
 
-> A calculator for Math-magicians Inc using create-react-app, a tool built by developers at Facebook to help you build React applications, saving you from time-consuming setup and configuration.
+> A 'todo' application showing weather and a commentary. Build with react and MDBBootstrap.
 
 ## Table Of Contents
 
-- [Calc-eat](#calc-eat)
+- [Agenda App](#agenda-app)
   - [Table Of Contents](#table-of-contents)
   - [Built With](#built-with)
   - [Usage](#usage)
@@ -46,18 +46,19 @@
 - npm
 - CSS
 - ES6
+- MDB Bootstrap
   
 ## Usage
 
 To have this app on your pc, you need to:
-* [download](https://github.com/simandebvu/calc-eact/archive/development.zip) or clone this repo:
+* [download](https://github.com/simandebvu/agenda-app/archive/development.zip) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:simandebvu//calc-eact.git
+    git@github.com:simandebvu//agenda-app.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/simandebvu/calc-eact.git
+    https://github.com/simandebvu/agenda-app.git
   ```
 
 * In the project directory, you can run:
@@ -101,6 +102,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse
+- MDBBootstrap
 
 ## 📝 License
 
