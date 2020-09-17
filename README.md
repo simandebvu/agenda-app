@@ -78,7 +78,7 @@ To have this app on your pc, you need to:
  
 ## Live Demo 
 
-[Live Demo Link](#) :point_left:
+[Live Demo Link](https://react-agenda-app.netlify.app/) :point_left:
 
 
 ## Authors
